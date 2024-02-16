@@ -26,3 +26,5 @@ If any of the `assert` statements fail **with** `severity failure` then GHDL wil
 Assert statements of other severity levels will be reported, but not fail the workflow.
 
 ## Documentation: Help received from C3C Zack Duessler on assert statements, I had initially written assert w_sw <= o”010”; instead of w_sw <= o”2”; and nothing would run. I also used Mock’s writeup in the Teams.
+
+![waveform](Screenshot 2024-02-15 232510.png)
